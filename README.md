@@ -112,3 +112,15 @@
 - 지원자의 개인 정보는 이번 채용 전형의 참고 자료로만 활용하고 바로 파기됩니다.
 - 면접 결과는 전화 혹은 이메일로 개별 안내해드립니다.
 - 합격 시 경력에 관계없이 모든 직군이 3개월 Try-out 을 거치게 됩니다. 
+
+
+## 두잉랩 관련 기사 
+
+- [2019/01/22   [전자신문]두잉랩, AI 식단 사진으로 다이어트 성공 지원](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=030&aid=0002777695)
+- [2018/10/16   [푸드테크 스타트업] 사진 한 장으로 다이어트를? 두잉랩의 다이어트 카메라 AI](http://www.econovill.com/news/articleView.html?idxno=349057)
+- [2018/09/25   [jobsN] 찍으면 끝…다이어트 하는 사람들 사이에서 난리났어요](https://1boon.kakao.com/jobsN/5ba8fac5709b530001966b92)
+- [2018/09/21   [아시아경제TV: 클로즈업] (주)두잉랩 AI 음식인식 솔루션](https://tv.naver.com/v/4104918)
+- [2018/09/19   [ChosunBiz] 네이버 D2SF, 헬스케어 분야 스타트업 3곳 신규 투자](http://biz.chosun.com/site/data/html_dir/2018/09/19/2018091901972.html)
+- [2018/09/16   [중앙일보] 삼성전자 뛰쳐나와 만든 앱, 찍는 순간 칼로리가 나온다](https://news.joins.com/article/22973973)
+- [2018/06/18   [NEWSWORKER] 과기정통부, 혁신적인 창업 아이디어 가진 스타트업 발굴](http://www.newsworker.co.kr/news/articleView.html?idxno=19221)
+
