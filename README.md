@@ -29,6 +29,9 @@
 
 현재 해외진출을 위한 준비를 하고 있습니다.
 
+## 기술 데모 영상
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2097YwX2M8M/0.jpg)](https://www.youtube.com/watch?v=2097YwX2M8M)
 
 ## 채용분야
 
