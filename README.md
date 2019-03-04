@@ -40,7 +40,6 @@
   	- IOS
   	- Android
     - Web Front-end
-    - DeepLearning (Image Classification, Object Detection, Instant Segmentation)
 - 자격조건
   	- 자격조건 없음
 - 우대조건
@@ -53,7 +52,6 @@
   	- IOS
   	- Android
     - Web Front-end
-    - DeepLearning
 - 자격조건
   	- S/W 개발 경력 4년 이상 (관련 경력 없어도 지원 가능)
     - 새로운 기술에 대한 습득 속도가 빠름 
@@ -71,12 +69,7 @@
 - 우대조건 (Web Front-end)
     - WEB 개발 경험 보유자 (Angular, React, Vue.js등)
     - HTTP(RESTFul) API 개발 유경험자
-    - Back-Office 개발 유경험자
-- 우대조건 (DeepLearning)
-    - AI 관련 전공자
-    - DeepLearning 개발 경험 보유자 (Tensorflow, Keras, Pytorch 등)
-    - Deeplearning netwrok 설계 경험 보유자
-    
+    - Back-Office 개발 유경험자   
 
 ## 근무조건
 
