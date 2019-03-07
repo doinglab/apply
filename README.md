@@ -128,7 +128,10 @@
 
 
 ## 두잉랩 관련 기사 
-
+- [2019/02/27   [SBS]사진 찍으면 칼로리 계산 척척…5G 경쟁 뛰어든 韓 스타트업
+출처 : SBS 뉴스 
+원본 링크 : https://news.sbs.co.kr/news/endPage.do?news_id=N1005153994&plink=ORI&cooper=NAVER&plink=COPYPASTE&cooper=SBSNEWSEND](https://news.sbs.co.kr/news/endPage.do?news_id=N1005153994&plink=ORI&cooper=NAVER)
+- [2019/02/24   [브릿지경제]두잉랩, AI 음식인식 솔루션 ‘푸드렌즈’ MWC 2019 공개](http://www.viva100.com/main/view.php?key=20190224010006304)
 - [2019/01/22   [전자신문]두잉랩, AI 식단 사진으로 다이어트 성공 지원](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=030&aid=0002777695)
 - [2018/10/16   [푸드테크 스타트업] 사진 한 장으로 다이어트를? 두잉랩의 다이어트 카메라 AI](http://www.econovill.com/news/articleView.html?idxno=349057)
 - [2018/09/25   [jobsN] 찍으면 끝…다이어트 하는 사람들 사이에서 난리났어요](https://1boon.kakao.com/jobsN/5ba8fac5709b530001966b92)
