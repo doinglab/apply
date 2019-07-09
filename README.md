@@ -77,15 +77,7 @@ HTML 과 비슷한 형식의 문서가 있습니다.
     - 새로운 기술에 대한 습득 속도가 빠름 
 - 우대조건 (공통)
   	- 컴퓨터공학 전공자
-  	- 해당 프로젝트 경험자
-- 우대조건 (IOS)
-    - IOS 개발 경험 보유자 (IOS architecture, Object-C, Swift, Rxswift등)
-    - App Deploy 유경험자 
-    - HTTP(RESTFul) API 개발 유경험자
-- 우대조건 
-    - WEB 개발 경험 보유자 (Angular, React, Vue.js등)
-    - HTTP(RESTFul) API 개발 유경험자
-    - Back-Office 개발 유경험자   
+  	- 딥러닝 프로젝트 경험자
 
 ### 2. 개발 - iOS (경력 4년 이상)
 - 업무
