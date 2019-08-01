@@ -148,8 +148,10 @@
 - 2019-02 NVIDIA INCEPTION Program 선정
 - 2019-03 남산랩 Program 선정
 - 2019-03 경기창조센터 K-Cham Program 선정
+- 2019-07 교보생명 INNOSTAGE Program 선정
 
 ## 두잉랩 관련 기사 
+- [2019/07/01   [어린이동아]AI 영양사 만든 푸드테크 스타트업 ‘두잉랩’을 찾아가다](http://kids.donga.com/?ptype=article&no=20190723155634952428)
 - [2019/07/01   [한국일보]폰카로 음식 찰칵~ AI 영양사 “단백질이 부족한 식단입니다”](https://www.hankookilbo.com/News/Read/201906281882023146?did=NA&dtype=&dtypecode=&prnewsid=)
 - [2019/06/05   [전자신문]두잉랩, 과기부 '빅데이터 플랫폼 구축' 사업 최종 선정](http://www.etnews.com/20190605000297)
 - [2019/05/30   [한국일보]음식 사진만 찍어도 영양소 분석… 네이버가 ‘팍팍’ 밀어주는 기술 스타트업들](https://www.hankookilbo.com/News/Read/201905301767797554?did=NA&dtype=&dtypecode=&prnewsid=)
