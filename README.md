@@ -31,7 +31,7 @@
 
 ## 개발
 
-[개발직 채용 공고 보기](Development.md, "development")
+[개발직 채용 공고 보기](https://github.com/doinglab/apply/Development.md)
 
 ### 공통자격 
 - 자료구조와 알고리즘의 기본 지식을 가지고 계신 분
