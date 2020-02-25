@@ -40,7 +40,7 @@
 [전략기획 채용 공고 보기](StrategyOperatoin.md)
 
 ## 영양관리 
-[UI/UX 채용 공고 보기](Nutrition.md)
+[영양관리 채용 공고 보기](Nutrition.md)
 
 ## 두잉랩 주요 이벤트 
 - 2016-10 주식회사 두잉랩 설립
