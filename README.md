@@ -11,7 +11,7 @@
 
 두잉랩은 기술력을 인정받아 2018년 NAVER로 부터 투자를 유치 하였습니다.
 
-이외 K-Global HighTech-Startup, 한화 드림플러스 헬스케어 스타트업, 아산남눔재단 남산랩 Program, 
+이외 K-Global HighTech-Startup, 한화 드림플러스 헬스케어 스타트업, 아산나눔재단 남산랩 Program, 
 
 경기창조센터 K-Champ lab Program, 교보생명 Innostage 등 다영한 프로그램에 선정되는 등
 
