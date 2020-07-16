@@ -66,8 +66,7 @@
     - 딥러닝 프레임 워크 사용가능 (Tensorflow, Keras, Pytorch 등)
 - 우대조건 (공통)
   	- 컴퓨터공학 전공자
-  	- Web관련 프로젝트 경험자
-    - HTTP(RESTFul) API 개발 및 활용 경험자
+  	
     
     
 ## 근무조건
