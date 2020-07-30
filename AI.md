@@ -2,7 +2,7 @@
 
 > 두잉랩은 사람을 건강하게 만드는 인공지능 기술 개발을 목표로 하고 있습니다. 세계 최고의 음식인식 솔루션인 FoodLens 기술을 개발하고 성공적으로 상용화하였으며, 현재 영양관리 솔루션을 포함한 다양한 Lifecare 플랫폼으로 그 영역을 넓혀가며 빠르게 성장하고 있습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D0-3Njsmdpk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2097YwX2M8M/0.jpg)](https://www.youtube.com/watch?v=2097YwX2M8M)
 
 ## 회사 연혁
 
