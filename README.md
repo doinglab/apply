@@ -30,8 +30,10 @@
 
 
 ## 개발
-
 [개발직 채용 공고 보기](Development.md)
+
+## AI R&D
+[AI R&D 채용 공고 보기](AI.md)
 
 ## UI/UX
 [UI/UX 채용 공고 보기](UIUX.md)
