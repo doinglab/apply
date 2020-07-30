@@ -77,4 +77,4 @@
 - 합격 시 경력에 관계없이 모든 직군이 3개월 Try-out 을 거치게 됩니다. 
 
 ### 7. 기타 참고 사항 
-    - [사람인 - [Tech Startup 두잉랩] 딥러닝 및 빅데이터 엔지니어 채용](http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38470873&view_type=search)
+- [사람인 - [Tech Startup 두잉랩] 딥러닝 및 빅데이터 엔지니어 채용](http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38470873&view_type=search)
