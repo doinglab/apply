@@ -31,7 +31,8 @@
 
 ### 업무 내용 
 - 사내 데이터 관리
-- 인공지능 음식 인식 엔진 (FoodLens) 유지/보수
+- 인공지능 음식 인식 엔진 (FoodLens) 개선 및 유지/보수
+- 인공지능 기반 데이터 수집 툴 개발
 
 ### 지원 자격 
 - 대졸 이상 (4년)
@@ -44,7 +45,7 @@
 ## Research
 
 ### 업무 내용 
-- 인공지능 음식 인식 엔진 (FoodLens) 개발
+- 차세대 인공지능 음식 인식 엔진 (FoodLens) 개발
 - Object Detection 기술 개발
 - Image to Meta Generation 기술 개발
 
