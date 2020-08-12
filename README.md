@@ -35,10 +35,10 @@
 ## AI R&D
 [AI R&D 채용 공고 보기](AI.md)
 
-## UI/UX
+## UI/UX (채용마감)
 [UI/UX 채용 공고 보기](UIUX.md)
 
-## 전략기획
+## 전략기획 (채용마감)
 [전략기획 채용 공고 보기](StrategyOperatoin.md)
 
 ## 영양관리 
