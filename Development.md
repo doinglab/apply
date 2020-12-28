@@ -1,29 +1,38 @@
 ### 공통자격 
 - 자료구조와 알고리즘의 기본 지식을 가지고 계신 분
 - 품질 좋은 시스템과 코드를 만들기 위해 항상 노력하는 분
-- 새로운 프로그래밍 언어 및  습득에 거부감이 없으신 분
-
+- 원활한 커뮤니케이션 능력을 가지신분
+- 더 좋은 코드를 만들기 위해 고민하시는분
+- Restful API에 대한 이해와 경험이 있는분
+- Gitflow에 대한 이해와 경험이 있는분
 
 ### 1. 개발 - Android 개발자 (경력 2년이상)
 - 업무
-    - 다이어트 카메라 앱 개발
-    - FoodLens SDK 개발
-    - 신규 서비스 개발
+    - 상식 앱 개발
+    - 다이어트 카메라 앱 유지보수
+    - FoodLens SDK 유지보수
 - 자격조건
     - 공통 자격 조건
     - Kotlin사용 가능자
+- 기술스택
+    - Kotlin, Coroutine, MVVM, Android Jetpack(databinding, navigation, paging 등..), Koin, kotest 등..
+    - Git, Github, Jira, Confluence, Slack 등..
+    - CircleCI, Fastlane, Github action 등..
 - 우대조건 (공통)
   	- 관련 프로젝트 유경험자
     - 컴퓨터공학 전공자
 
 ### 2. 개발 - iOS 개발자 (경력 2년이상)
 - 업무
-    - 다이어트 카메라 앱 개발
-    - FoodLens SDK 개발
-    - 신규 서비스 개발
+    - 상식 앱 개발
+    - 다이어트 카메라 앱 유지보수
+    - FoodLens SDK 유지보수
 - 자격조건
     - 공통 자격 조건
     - Swift, RxSwift 사용가능자
+- 기술스택
+    - Swift, MVVM, RxSwift, SwiftUI, CocoaPods, Alamorefire..
+    - Git, Github, Jira, Confluence, Slack 등..
 - 우대조건 (공통)
     - 관련 프로젝트 유경험자
   	- 컴퓨터공학 전공자
