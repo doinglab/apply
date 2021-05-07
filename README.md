@@ -68,6 +68,8 @@
 - 2020-12 인사이트 에퀴티 파트너스 투자 유치
 
 ## 두잉랩 관련 기사 
+- [2021/01/12   [헬스조선]강북삼성병원, 당뇨 효율적 관리 위해 두 팔 걷어 …두잉랩과 MOU 체결](https://health.chosun.com/site/data/html_dir/2021/02/25/2021022500891.html)
+- [2021/01/12   [헤럴드경제]두잉랩-메드트로닉, 당뇨 환자 위한 AI 식단 코칭 서비스 개발](http://news.heraldcorp.com/view.php?ud=20210112000820)
 - [2019/07/01   [어린이동아]AI 영양사 만든 푸드테크 스타트업 ‘두잉랩’을 찾아가다](http://kids.donga.com/?ptype=article&no=20190723155634952428)
 - [2019/07/01   [한국일보]폰카로 음식 찰칵~ AI 영양사 “단백질이 부족한 식단입니다”](https://www.hankookilbo.com/News/Read/201906281882023146?did=NA&dtype=&dtypecode=&prnewsid=)
 - [2019/06/05   [전자신문]두잉랩, 과기부 '빅데이터 플랫폼 구축' 사업 최종 선정](http://www.etnews.com/20190605000297)
