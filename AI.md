@@ -4,27 +4,6 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2097YwX2M8M/0.jpg)](https://www.youtube.com/watch?v=2097YwX2M8M)
 
-## 회사 연혁
-
-- 2016-10 주식회사 두잉랩 설립
-- 2016-12 딥러닝 영상인식 기반 메모 인식 솔루션 개발 / (주) 망고슬레브 위탁개발
-- 2017-03 온라인 도서 출판 서비스 개발 (주)북트랩스 위탁 개발
-- 2017-05 정보통신기술진흥센터 ICT유망기술개발지원(R&D)사업 수행
-- 2017-06 전자부품연구원 창업보육센터 입주
-- 2017-08 기업부설연구소 설립
-- 2017-11 다이어트 다이어리 AI 서비스 런칭
-- 2017-12 당뇨카메라 AI 서비스 런칭
-- 2018-05 에너지기술평가원 실증사업 선정 (인공지능 CCTV 개발)
-- 2018-05 K-Global HighTech-Startup 선정
-- 2018-06 벤처기업 인증
-- 2018-06 한화 드림플러스 헬스케어 스타트업 선정
-- 2018-08 네이버(주) 투자 유치
-- 2019-02 NVIDIA INCEPTION Program 선정
-- 2019-03 남산랩 Program 선정
-- 2019-03 경기창조센터 K-Cham Program 선정
-- 2019-07 교보생명 Innostage 선정
-- 2020-02 ㈜녹십자 헬스케어 투자 유치
-
 ## Job description
 
 ## Engineering
@@ -93,7 +72,5 @@
 - 면접 결과는 전화 혹은 이메일로 개별 안내해드립니다.
 - 합격 시 경력에 관계없이 모든 직군이 3개월 Try-out 을 거치게 됩니다. 
 
-### 기타 참고 사항 
-- [사람인 - [Tech Startup 두잉랩] 딥러닝 및 빅데이터 엔지니어 채용](http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38470873&view_type=search)
 
 
